@@ -5,10 +5,6 @@ import Nav from 'react-bootstrap/Nav';
 import CartWidget from './CartWidget';
 
 
-
-
-
-
 function NavBar () {
   return (
 
