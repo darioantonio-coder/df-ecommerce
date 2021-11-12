@@ -2,7 +2,9 @@
 
 function ItemListContainer () {
     return (
+        <>
         <h1>Prueba de contenedor</h1>
+        </>
     )
 }
 

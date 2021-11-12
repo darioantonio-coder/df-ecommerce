@@ -1,10 +1,9 @@
-import cartIcon from './carticon.jpg';
 import "./estilos.css";
 
 function CartWidget () {
     return (
       
-      <img src={cartIcon}  className="cartIcon" />  
+      <img src="/carticon.jpg" className="cartIcon" />  
             
          );
         
